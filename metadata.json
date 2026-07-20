@@ -1,0 +1,6 @@
+{
+  "name": "AI Weight Loss Coach",
+  "description": "FitMentor AI is an interactive, evidence-based healthy weight loss coach that tracks daily nutrition, workouts, sleep, and water, offering personalized AI-powered coaching, meal planning, and recipes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
